@@ -27,7 +27,7 @@ This repository hosts the source code for Zwigato, a dynamic food ordering websi
 Go to the project directory
 
 ```bash
-    cd Food-Delivery
+    cd Zwigato-Food Delivery Made Easy
 ```
 Install dependencies (frontend)
 
